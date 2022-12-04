@@ -4,7 +4,7 @@ namespace Program
 {
     class Program
     {
-        private static IDomashka dz = new Dz5();
+        private static IDomashka dz = new Dz7();
 
         static void Main(string[] args)
         {
